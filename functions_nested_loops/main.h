@@ -9,4 +9,5 @@ int _islower(int c);
 int _abs(int);
 int print_sign(int n);
 int print_last_digit(int);
+void jack_bauer(void);
 #endif /* MAIN_H */
