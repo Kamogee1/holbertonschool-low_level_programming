@@ -1,0 +1,2 @@
+veriadic pointers
+
